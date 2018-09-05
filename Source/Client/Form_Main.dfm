@@ -7,13 +7,15 @@ object frm_Main: Tfrm_Main
   ClientHeight = 433
   ClientWidth = 344
   Color = clBtnFace
+  DoubleBuffered = True
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11
   Font.Name = 'Tahoma'
   Font.Style = []
   OldCreateOrder = False
-  Position = poDesktopCenter
+  Position = poScreenCenter
+  StyleElements = [seFont, seClient]
   OnClose = FormClose
   OnCreate = FormCreate
   PixelsPerInch = 96
@@ -12882,7 +12884,7 @@ object frm_Main: Tfrm_Main
     OnKeyPress = TargetID_MaskEditKeyPress
   end
   object Reconnect_Timer: TTimer
-    Interval = 15000
+    Interval = 5000
     OnTimer = Reconnect_TimerTimer
     Left = 56
     Top = 296
