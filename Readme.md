@@ -17,9 +17,6 @@ First of all, I apologize for my English because it is not my native language. I
 
 -----------------------------------------------------------------------
 
-If you have enjoyed the project and would like to help with a donation via **PayPal**, follow the link:
-[https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=N9LKUWQFK6YZ4](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=N9LKUWQFK6YZ4)
-
 **All components used are native to Delphi itself.**
 
 **Now the project is 100% compatible with Delphi Seattle.**
